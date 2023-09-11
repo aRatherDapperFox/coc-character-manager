@@ -112,6 +112,7 @@
     };
 
     let edit_mode = false;
+    let baseball_bat = new Skill("Baseball Bat", 30);
 </script>
 
 <h1 class="text-2xl w-full text-center m-3 font-bold">Investigator</h1>
